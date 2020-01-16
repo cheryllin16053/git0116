@@ -43,3 +43,7 @@ hello()
 ---
 
 ![](./NTUB.jpg)
+
+[Go to Header1](#Header1)
+
+[Go to Page A](./a.md)
